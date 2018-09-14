@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 65xx)(type Legacy)(uri ${KIPRJMOD}/65xx_Library/KiCad/65xx.lib)(options "")(descr ""))
+  (lib (name apple2)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/apple2.lib)(options "")(descr ""))
+)

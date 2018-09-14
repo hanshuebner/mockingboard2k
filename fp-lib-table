@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name apple2-bus)(type KiCad)(uri E:/Users/salfter/Documents/6522/kicad-libs/apple2-bus.pretty)(options "")(descr ""))
+)
