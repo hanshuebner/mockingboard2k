@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:6522-cache
 EELAYER 26 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -681,7 +680,7 @@ D6
 Text GLabel 5550 1950 0    50   BiDi ~ 0
 D7
 $Comp
-L Connector_Generic:Conn_02x20_Top_Bottom J1
+L Connector_Generic:Conn_02x20_Odd_Even J1
 U 1 1 5B9D0483
 P 8800 4050
 F 0 "J1" H 8850 5050 50  0000 C CNN
