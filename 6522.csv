@@ -1,20 +1,21 @@
 Title,Apple II 32-GPIO Card
 Revision,0.1
 Date,2018-09-14
-Generated,9/17/2018 9:34:22 AM
+Generated,9/17/2018 9:57:08 AM
 Company,Scott Alfter
 Comment 1,
 Comment 2,
 Comment 3,
 Comment 4,
-Total Parts,16
-Total Unique Parts,9
+Total Parts,18
+Total Unique Parts,10
 
 
 
 Ref,Qty,Value,Footprint,Critical,Description,JEDEC Pkg,Manufacturer,Mfr PN,Qty Per Unit,Subs OK?,Vendor 1 PN,Vendor 1 URL,Vendor 2 PN,Vendor 2 URL,
 C3 C4 C5 C6 C7 C8 C2 ,7,0.1u,Capacitor_SMD:C_0805_2012Metric,n,CAP CER 0.1UF 25V Y5V 0805,0805,various, ,1,y,80-C0805C104Z3V,https://www.mouser.com/ProductDetail/KEMET/C0805C104Z3VACTU?qs=sGAEpiMZZMukHu%252bjC5l7YQmPQw%252bwfPYPv1U1XacUC1s%3d,1276-1286-1-ND,https://www.digikey.com/products/en?keywords=1276-1286-1-ND
 C1 ,1,10u,Capacitor_SMD:C_0805_2012Metric,n,CAP CER 10UF 10V X5R 0805,0805,various, ,1,y,710-885012107010,https://www.mouser.com/ProductDetail/Wurth-Electronics/885012107010?qs=sGAEpiMZZMukHu%252bjC5l7YRTxnIahtzp%252bEFxWFMN7Dfw%3d,1276-1052-1-ND,https://www.digikey.com/products/en?keywords=1276-1052-1-ND
+D2 D1 ,2,BAT54GW,Diode_SMD:D_SOD-123,n,DIODE SCHOTTKY 30V 200MA SOD123,SOD-123-2,Nexperia,BAT54GWJ,1,y,841-BAT54GWJ,https://www.mouser.com/ProductDetail/Nexperia/BAT54GWJ?qs=sGAEpiMZZMtQ8nqTKtFS%2fH6mLkoTnrFe60zaUHUrWNWHqXt10QYm4g%3d%3d,1727-7328-2-ND,https://www.digikey.com/products/en?keywords=1727-7328-2-ND
 J1 ,1,Conn_02x20_Top_Bottom,Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical,n,Connector Header Through Hole 40 position 0.100" (2.54mm), ,Amphenol FCI,67997-240HLF,1,y,649-67997-240HLF,https://www.mouser.com/ProductDetail/Amphenol-FCI/67997-240HLF?qs=sGAEpiMZZMs%252bGHln7q6pm24n0txessAM72eL6biLBJc%3d,67997-240HLF-ND,https://www.digikey.com/products/en?keywords=67997-240HLF-ND
 J2 ,1,Conn_02x01_Top_Bottom,Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical,n,Connector Header Through Hole 2 position 0.100" (2.54mm), ,Amphenol FCI,67997-202HLF,1,y,649-67997-202HLF,https://www.mouser.com/ProductDetail/Amphenol-FCI/67997-202HLF?qs=sGAEpiMZZMs%252bGHln7q6pm2nKUjHUi6l6CAxgwh5TlXQ%3d,67997-202HLF-ND,https://www.digikey.com/products/en?keywords=67997-202HLF-ND
 P1 ,1,A2Bus,apple2-bus:Male_Card-Edge_50_pin__100_mil,y,Apple II expansion slot, , , ,0,n, , , , 
@@ -27,4 +28,4 @@ U1 ,1,74LS245,Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm,n,IC TXRX NON-INVERT 5.25V 
 
 
 BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated 9/17/2018 9:34:22 AM
+Generated 9/17/2018 9:57:08 AM

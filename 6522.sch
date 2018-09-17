@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:6522-cache
 EELAYER 26 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -110,9 +111,9 @@ Text GLabel 5550 5400 0    50   Input ~ 0
 A3
 Text GLabel 2550 3300 0    50   Input ~ 0
 ~IRQ
-Text GLabel 5550 4000 0    50   Output ~ 0
+Text GLabel 5100 4000 0    50   Output ~ 0
 ~IRQ
-Text GLabel 5550 1450 0    50   Output ~ 0
+Text GLabel 5100 1450 0    50   Output ~ 0
 ~IRQ
 Text GLabel 3950 3200 2    50   Output ~ 0
 R~W
@@ -1011,4 +1012,52 @@ F 13 "Connector Header Through Hole 2 position 0.100\" (2.54mm)" H 0   -1000 50 
 	1    8800 2850
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:D_Schottky D2
+U 1 1 5B9FE979
+P 5250 4000
+F 0 "D2" H 5250 3784 50  0000 C CNN
+F 1 "BAT54GW" H 5250 3875 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5250 4000 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/916/BAT54GW-1318921.pdf" H 5250 4000 50  0001 C CNN
+F 4 "Nexperia" H 5250 4000 50  0001 C CNN "Manufacturer"
+F 5 "BAT54GWJ" H 5250 4000 50  0001 C CNN "Mfr PN"
+F 6 "1" H 5250 4000 50  0001 C CNN "Qty Per Unit"
+F 7 "841-BAT54GWJ" H 5250 4000 50  0001 C CNN "Vendor 1 PN"
+F 8 "https://www.mouser.com/ProductDetail/Nexperia/BAT54GWJ?qs=sGAEpiMZZMtQ8nqTKtFS%2fH6mLkoTnrFe60zaUHUrWNWHqXt10QYm4g%3d%3d" H 5250 4000 50  0001 C CNN "Vendor 1 URL"
+F 9 "1727-7328-2-ND" H 5250 4000 50  0001 C CNN "Vendor 2 PN"
+F 10 "https://www.digikey.com/products/en?keywords=1727-7328-2-ND" H 5250 4000 50  0001 C CNN "Vendor 2 URL"
+F 11 "SOD-123-2" H 5250 4000 50  0001 C CNN "JEDEC Pkg"
+F 12 "y" H 5250 4000 50  0001 C CNN "Subs OK?"
+F 13 "n" H 5250 4000 50  0001 C CNN "Critical"
+F 14 "DIODE SCHOTTKY 30V 200MA SOD123" H 5250 4000 50  0001 C CNN "Description"
+	1    5250 4000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 4000 5550 4000
+$Comp
+L Device:D_Schottky D1
+U 1 1 5BA00ED3
+P 5250 1450
+F 0 "D1" H 5250 1234 50  0000 C CNN
+F 1 "BAT54GW" H 5250 1325 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5250 1450 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/916/BAT54GW-1318921.pdf" H 5250 1450 50  0001 C CNN
+F 4 "Nexperia" H 5250 1450 50  0001 C CNN "Manufacturer"
+F 5 "BAT54GWJ" H 5250 1450 50  0001 C CNN "Mfr PN"
+F 6 "1" H 5250 1450 50  0001 C CNN "Qty Per Unit"
+F 7 "841-BAT54GWJ" H 5250 1450 50  0001 C CNN "Vendor 1 PN"
+F 8 "https://www.mouser.com/ProductDetail/Nexperia/BAT54GWJ?qs=sGAEpiMZZMtQ8nqTKtFS%2fH6mLkoTnrFe60zaUHUrWNWHqXt10QYm4g%3d%3d" H 5250 1450 50  0001 C CNN "Vendor 1 URL"
+F 9 "1727-7328-2-ND" H 5250 1450 50  0001 C CNN "Vendor 2 PN"
+F 10 "https://www.digikey.com/products/en?keywords=1727-7328-2-ND" H 5250 1450 50  0001 C CNN "Vendor 2 URL"
+F 11 "SOD-123-2" H 5250 1450 50  0001 C CNN "JEDEC Pkg"
+F 12 "y" H 5250 1450 50  0001 C CNN "Subs OK?"
+F 13 "n" H 5250 1450 50  0001 C CNN "Critical"
+F 14 "DIODE SCHOTTKY 30V 200MA SOD123" H 5250 1450 50  0001 C CNN "Description"
+	1    5250 1450
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 1450 5550 1450
 $EndSCHEMATC
