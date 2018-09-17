@@ -1,7 +1,7 @@
 Title,Apple II 32-GPIO Card
 Revision,0.1
 Date,2018-09-14
-Generated,9/14/2018 2:40:39 PM
+Generated,9/17/2018 9:34:22 AM
 Company,Scott Alfter
 Comment 1,
 Comment 2,
@@ -27,4 +27,4 @@ U1 ,1,74LS245,Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm,n,IC TXRX NON-INVERT 5.25V 
 
 
 BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated 9/14/2018 2:40:39 PM
+Generated 9/17/2018 9:34:22 AM
