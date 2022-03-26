@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB19_Female
+D 19-pin female D-SUB connector
+K female D-SUB connector
+$ENDCMP
+#
+$CMP DB19_Male
+D 19-pin male D-SUB connector
+K male D-SUB connector
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CXA1645
+D RGB to NTSC/PAL encoder
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/46646/SONY/CXA1645/+3W5WJUOLLXaE/1EACzw+/datasheet.pdf
+$ENDCMP
+#
+$CMP CXA2075
+D RGB to NTSC/PAL encoder
+F http://pdf1.alldatasheet.com/datasheet-pdf/view/146350/SONY/CXA2075M/+0_5473VPMMZb.a.NBEDU+/datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

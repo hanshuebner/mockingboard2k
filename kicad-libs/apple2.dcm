@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A2Bus
+D Apple II expansion bus
+F https://allpinouts.org/pinouts/connectors/buses/apple-ii-slot/
+$ENDCMP
+#
+$CMP IIGS_RGB
+D Apple IIGS RGB output
+F http://apple2.info/wiki/index.php?title=Pinouts#IIGS_.28and_Apple_.2F.2F.2F.29_RGB_Connector
+$ENDCMP
+#
+#End Doc Library

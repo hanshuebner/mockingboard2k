@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PwrMod
+#
+DEF PwrMod PM 0 40 Y Y 1 F N
+F0 "PM" 0 250 60 H V C CNN
+F1 "PwrMod" 0 -250 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -100 200 100 -200 0 1 0 f
+X ~~ 1 -200 100 100 R 50 50 1 1 P
+X ~~ 2 -200 -100 100 R 50 50 1 1 P
+X + 3 200 100 100 L 50 50 1 1 P
+X - 4 200 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6551
+D asynchronous communication interface adapter
+F http://www.classiccmp.org/dunfield/r/6551.pdf
+$ENDCMP
+#
+#End Doc Library

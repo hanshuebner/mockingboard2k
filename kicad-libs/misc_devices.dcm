@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7SEGMENT_CC
+D Generic 7 segment display, common cathode
+K LED
+$ENDCMP
+#
+$CMP D_Bridge_AA-+
+D Diode bridge (pins: 1=AC, 2=AC, 3=-, 4=+)
+K rectifier acdc
+$ENDCMP
+#
+#End Doc Library
