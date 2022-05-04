@@ -2484,7 +2484,7 @@
     (property "Reference" "U2" (id 0) (at 195.58 76.2 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "6522" (id 1) (at 205.74 76.2 0)
+    (property "Value" "6522A" (id 1) (at 205.74 76.2 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (id 2) (at 214.63 110.49 0)
@@ -3932,7 +3932,7 @@
     (property "Reference" "U6" (id 0) (at 195.58 169.545 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "6522" (id 1) (at 205.74 169.545 0)
+    (property "Value" "6522A" (id 1) (at 205.74 169.545 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm" (id 2) (at 214.63 203.835 0)
@@ -4351,7 +4351,7 @@
       (reference "U1") (unit 1) (value "AY-3-8910") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/00000000-0000-0000-0000-00005b9bfda5"
-      (reference "U2") (unit 1) (value "6522") (footprint "Package_DIP:DIP-40_W15.24mm")
+      (reference "U2") (unit 1) (value "6522A") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/8ab553b7-4763-4dd3-a825-67ce0ca1cff6"
       (reference "U3") (unit 1) (value "74HCT74") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
@@ -4369,7 +4369,7 @@
       (reference "U5") (unit 1) (value "AY-3-8910") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
     (path "/c2173ca6-7815-4e13-9854-5327be15b7fb"
-      (reference "U6") (unit 1) (value "6522") (footprint "Package_DIP:DIP-40_W15.24mm")
+      (reference "U6") (unit 1) (value "6522A") (footprint "Package_DIP:DIP-40_W15.24mm")
     )
   )
 )
