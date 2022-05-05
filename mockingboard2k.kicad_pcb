@@ -489,7 +489,7 @@
       (net 118 "unconnected-(U2-Pad39)") (pinfunction "CA2") (pintype "input+no_connect") (tstamp ec31c074-17b2-48e1-ab01-071acad3fa04))
     (pad "40" thru_hole oval locked (at 15.24 0 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 15 "VCC") (pinfunction "CA1") (pintype "input") (tstamp 0755aee5-bc01-4cb5-b830-583289df50a3))
-    (model "${KISYS3DMOD}/Package_DIP.3dshapes/DIP-40_W15.24mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-40_W15.24mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1016,7 +1016,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 37f31dec-63fc-4634-a141-5dc5d2b60fe4))
     (pad "2" smd roundrect locked (at 0.9375 0 180) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp 88668202-3f0b-4d07-84d4-dcd790f57272))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1070,7 +1070,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp e4aa537c-eb9d-4dbb-ac87-fae46af42391))
     (pad "2" smd roundrect locked (at 0.9375 0 90) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp 6d1d60ff-408a-47a7-892f-c5cf9ef6ca75))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1124,7 +1124,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 4a850cb6-bb24-4274-a902-e49f34f0a0e3))
     (pad "2" smd roundrect locked (at 0.9375 0) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp e5203297-b913-4288-a576-12a92185cb52))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1178,7 +1178,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 4b03e854-02fe-44cc-bece-f8268b7cae54))
     (pad "2" smd roundrect locked (at 0.9375 0 90) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp 1c68b844-c861-46b7-b734-0242168a4220))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1232,7 +1232,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 026ac84e-b8b2-4dd2-b675-8323c24fd778))
     (pad "2" smd roundrect locked (at 0.9375 0) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp da25bf79-0abb-4fac-a221-ca5c574dfc29))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1286,7 +1286,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 155b0b7c-70b4-4a26-a550-bac13cab0aa4))
     (pad "2" smd roundrect locked (at 0.9375 0 90) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp 1fa508ef-df83-4c99-846b-9acf535b3ad9))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1340,7 +1340,7 @@
       (net 15 "VCC") (pintype "passive") (tstamp 143ed874-a01f-4ced-ba4e-bbb66ddd1f70))
     (pad "2" smd roundrect locked (at 0.9375 0 180) (size 0.975 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "GND") (pintype "passive") (tstamp 795e68e2-c9ba-45cf-9bff-89b8fae05b5a))
-    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1402,7 +1402,7 @@
       (net 48 "Net-(D2-Pad1)") (pinfunction "K") (pintype "passive") (tstamp 6ffdf05e-e119-49f9-85e9-13e4901df42a))
     (pad "2" smd rect locked (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 28 "~{IRQ}") (pinfunction "A") (pintype "passive") (tstamp 4c843bdb-6c9e-40dd-85e2-0567846e18ba))
-    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1464,7 +1464,7 @@
       (net 71 "Net-(D4-Pad1)") (pinfunction "K") (pintype "passive") (tstamp ed8a7f02-cf05-41d0-97b4-4388ef205e73))
     (pad "2" smd rect locked (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 28 "~{IRQ}") (pinfunction "A") (pintype "passive") (tstamp 7a74c4b1-6243-4a12-85a2-bc41d346e7aa))
-    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1822,6 +1822,11 @@
       (net 69 "Net-(U4-Pad4)") (pintype "output") (tstamp fe2b05f5-675b-44d0-956c-c5829b7c692a))
     (pad "5" smd rect (at 1.352799 0.950001 180) (size 1.005599 0.5) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 15 "VCC") (pinfunction "VCC") (pintype "power_in") (tstamp 224e8890-cdee-45fd-bd2e-64fe49c2de75))
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0805_2012Metric" (layer "B.Cu")
